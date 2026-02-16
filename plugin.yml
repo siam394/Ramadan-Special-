@@ -1,0 +1,9 @@
+name: RamadanPlugin
+version: 1.0
+main: com.siam.ramadanplugin.RamadanPlugin
+api-version: 1.21
+author: Siam
+commands:
+  ramadan:
+    description: Main Ramadan command
+    usage: /<command> reload|setsehri|setiftar|scoreboard
